@@ -7,4 +7,4 @@ This is a tutorial about how to create a new project in Firebase Console and how
 4. How to read the data from the database
 
 Youtube video:
-
+https://www.youtube.com/watch?v=Mt3Kz-dsrDU&feature=youtu.be
